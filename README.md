@@ -1,6 +1,6 @@
 # Projeto site Street
 
-- Esse projeto foi para 
+- Projeto realizado para conclusão de curso sobre Lógica de Programação Web, oferecido pelo Instituto Federal de Santa Catarina (IFSC).
 
 
 ## Tecnologias ultilizadas no projeto
