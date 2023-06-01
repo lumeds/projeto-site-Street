@@ -1,4 +1,4 @@
-# Projeto site Street
+# Projeto site Coffee Street
 
 - Projeto realizado para conclusão de curso sobre Lógica de Programação Web, oferecido pelo Instituto Federal de Santa Catarina (IFSC).
 
